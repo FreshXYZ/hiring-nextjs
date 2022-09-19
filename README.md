@@ -1,4 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Sick of HackerRank or LeetCode? Don’t worry, This homework task is designed to be more close to our daily life and as a Fresher, we do believe not only your code skills but also your problem solving skills, business logic, and communication are equally important.
+
+This test is designed to be finished in around 2-3 hours. If you have any questions/difficulties please contact us. 
+
+Let’s start and hope you enjoy!
+
 
 ## Prerequisites
 
@@ -33,9 +38,17 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+
+## Task 1
+Fresh Amplify is an Australian Leading Capital Markets Management System. As our goal is make it easier for listing companies to directly engage with investors,helping companies better understand their shareholders is an important part of our feature bundle. 
+ 
+Recently we got access to some shareholder information which the team decided to only provide the ability to view the data, so we can see if this data is valuable to our clients.
+ 
+Your task is to build a table view. Design can be found in design.fig in the repo. You can GET api/shareholders for all shareholder information. (This is just an example of how you can get the data, you can change anything if you want)
+ 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-## Task
+## Task 2
 
 Okay, now let's imagine the first task has been released for more than a month.
 We have realised that the page gets a lot of traffic, but only 5% are returning users. This indicates the value we are providing isn't solving the user's problem.
@@ -53,7 +66,6 @@ Using data analytics and feedback from our clients we have identified several is
 We'd like you to pick 1-2 problems and come up with an idea to solve them. Use your problem solving skills and creativity to build a suitable solution. If you hit any blockers feel free to email me jimmy@freshamplify.com and I'll be happy to help out.
 
 ## Submission
-
 Please follow the following steps to submit your work:
 
 1. Save your work

@@ -1,9 +1,8 @@
-Sick of HackerRank or LeetCode? Don’t worry, This homework task is designed to be more close to our daily life and as a Fresher, we do believe not only your code skills but also your problem solving skills, business logic, and communication are equally important.
+Sick of HackerRank or LeetCode? Don't worry, this homework task is designed to be closer to our daily life and as a Fresher, we do believe not only your coding skills but also your problem solving, business logic, and communication skills are equally important.
 
 This test is designed to be finished in around 2-3 hours. If you have any questions/difficulties please contact us. 
 
-Let’s start and hope you enjoy!
-
+Let's get started and hope you enjoy!
 
 ## Prerequisites
 
@@ -40,11 +39,12 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 ## Task 1
-Fresh Amplify is an Australian Leading Capital Markets Management System. As our goal is make it easier for listing companies to directly engage with investors,helping companies better understand their shareholders is an important part of our feature bundle. 
+
+Fresh Amplify is an Australian Leading Capital Markets Management System. As our goal is make it easier for listing companies to directly engage with investors, helping companies better understand their shareholders is an important part of our feature bundle. 
  
 Recently we got access to some shareholder information which the team decided to only provide the ability to view the data, so we can see if this data is valuable to our clients.
  
-Your task is to build a table view. Design can be found in design.fig in the repo. You can GET api/shareholders for all shareholder information. (This is just an example of how you can get the data, you can change anything if you want)
+Your task is to build a table view. Design can be found in `design.fig` in the repo. You can `GET /api/shareholders` for all shareholder information. This is just an example of how you can get the data, you can change anything if you want.
  
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 

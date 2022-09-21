@@ -1,6 +1,6 @@
 Sick of HackerRank or LeetCode? Don't worry, this homework task is designed to be closer to our daily life as a Fresher. We believe that your coding skills, problem solving, business logic, and communication skills are all equally important.
 
-This test is designed to be finished in around 2-3 hours. If you have any questions/difficulties please contact us. 
+This test is designed to be finished in couple of hours. If you have any questions/difficulties please contact us. 
 
 Let's get started and hope you enjoy!
 

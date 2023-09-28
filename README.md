@@ -1,4 +1,4 @@
-Sick of HackerRank or LeetCode? Don't worry, this homework task is designed to be closer to our daily life as a Fresher. We believe that your coding skills, problem solving, business logic, and communication skills are all equally important.
+Sick of HackerRank or LeetCode? Don't worry, this homework task is designed to be closer to our daily life at InvestorHub. We believe that your coding skills, problem solving, business logic, and communication skills are all equally important.
 
 This test is designed to be finished in couple of hours. If you have any questions/difficulties please contact us. 
 
@@ -30,8 +30,6 @@ node prisma/seed.js
 Next, run the development server:
 
 ```bash
-npm run dev
-# or
 yarn dev
 ```
 
@@ -40,11 +38,11 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Task 1
 
-Fresh Amplify is an Australia's leading Capital Markets Management System. Our goal is make it easier for listed companies to directly engage with investors. Helping companies better understand their shareholders is an important part of our feature bundle. 
+InvestorHub is an Australia's leading Capital Markets Management System. Our goal is make it easier for listed companies to directly engage with investors. Helping companies better understand their shareholders is an important part of our feature bundle.
 
 We were recently given access to some shareholder information, as a team we decided to make this data viewable by our clients. We can then assess if the data is valuable and how they prefer to use it.
  
-Your task is to build a table view to display this information. The design can be found in `design.fig` in the repo. You can `GET /api/shareholders` for all shareholder information. This is just an example of how you can get the data, you can change anything if you want.
+Your task is to build a table view to display this information. The design can be found in `design.fig`. See [here](https://help.figma.com/hc/en-us/articles/360041003114#01H8CC2FBNCT35PTPVSANMSMDY) to import the file in Figma. You can `GET /api/shareholders` for all shareholder information. This is just an example of how you can get the data, you can change anything if you want.
  
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
@@ -63,7 +61,7 @@ Using data analytics and feedback from our clients we have identified several is
 6. A client uses this list to reach out directly to individual shareholders, they are struggling with keeping track of who they have already spoken to, other than with a pen and paper. 
 7. Some clients care more about how long shareholders have held their stock rather than when they first started holding, they are unable to identify these shareholders. 
 
-We'd like you to pick 1-2 problems and come up with an idea to solve them. Use your problem solving skills and creativity to build a suitable solution. If you hit any blockers feel free to email me jimmy@freshamplify.com and I'll be happy to help out.
+We'd like you to pick 1-2 problems and come up with an idea to solve them. Use your problem solving skills and creativity to build a suitable solution. If you hit any blockers feel free to email devs@investorhub.com and we'll be happy to help out.
 
 ## Submission
 Please follow the following steps to submit your work:
@@ -71,7 +69,7 @@ Please follow the following steps to submit your work:
 1. Save your work
 2. Run `rm -rf .next node_modules` to delete `.next` and `node_modules`
 3. Compress everything into a `.zip` file
-4. Email the `.zip` file to jimmy@freshamplify.com
+4. Email the `.zip` file to jimmy@investorhub.com & jarvis@investorhub.com
 
 ## Learn More
 
